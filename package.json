@@ -1,0 +1,26 @@
+{
+  "name": "papiezowy-bot",
+  "version": "2.1.37",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Nubet",
+    "Papiez",
+    "Papaj",
+    "2137",
+    "papiezowa"
+  ],
+  "author": "Nubet",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.8.3"
+  }
+}

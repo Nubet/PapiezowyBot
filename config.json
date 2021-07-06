@@ -1,0 +1,9 @@
+{
+  "TOKEN": "Token tutaj", 
+  "VOICECHANNEL": "id kanalu glosowego do ktorego dolaczac ma bot",
+  "KANALDLABOTA": "kanal tekstowy dla bota id",
+  "STATUS": "ᛋᛋ🙋 𝗪𝘆𝗸𝗼𝗻𝗮𝗹 𝗡𝘂𝗯𝗲𝘁 ᛋᛋ🙋",
+  "LINK": "https://nubet.github.io/PapiezowyBot/BarkaWykop.mp3", 
+  "NIE ZMIENIAJ LINKU": "nie zmieniaj linku na powyzej!",
+  "VOLUME": 1.1 
+}
